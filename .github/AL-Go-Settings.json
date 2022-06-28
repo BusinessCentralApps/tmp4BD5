@@ -1,0 +1,5 @@
+﻿{
+    "type":  "AppSource App",
+    "templateUrl":  "https://github.com/bUsinesscentralapps/tmpAE0A-AppSource@main",
+    "bcContainerHelperVersion":  "dev"
+}
